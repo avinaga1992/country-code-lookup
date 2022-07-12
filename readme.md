@@ -2,6 +2,7 @@
 ![](https://github.com/richorama/country-code-lookup/workflows/Node%20CI/badge.svg?branch=master) 
 [![Downloads](https://img.shields.io/npm/dm/country-code-lookup.svg)](https://npmcharts.com/compare/country-code-lookup?minimal=true)
 
+a1
 # Country Code Lookup
 
 A node.js module to look up countries by various country codes.
